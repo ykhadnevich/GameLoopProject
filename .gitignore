@@ -16,3 +16,6 @@ x64/
 # Ignore SFML binaries (optional if included in the project directory)
 *.dll
 *.lib
+
+.vs/
+
