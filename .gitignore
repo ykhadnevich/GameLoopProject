@@ -1,0 +1,18 @@
+# Ignore build directories
+Debug/
+Release/
+x64/
+*.log
+
+# Ignore Visual Studio temporary files
+*.obj
+*.pdb
+*.tlog
+*.idb
+*.ipch
+*.tmp
+*.vcxproj.user
+
+# Ignore SFML binaries (optional if included in the project directory)
+*.dll
+*.lib
